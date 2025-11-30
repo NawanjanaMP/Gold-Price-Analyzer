@@ -90,7 +90,7 @@ npm install
 npm run dev
 ```
 
-The frontend will be available at `http://localhost:3000`
+The frontend will be available at `http://localhost:5173`
 
 ## 🚀 Usage
 
@@ -98,7 +98,7 @@ The frontend will be available at `http://localhost:3000`
 
 1. Start the backend server
 2. Start the frontend development server
-3. Open `http://localhost:3000` in your browser
+3. Open `http://localhost:5173` in your browser
 4. Click **"Sync Data"** button to perform initial data scraping
 
 ### Features
@@ -282,14 +282,6 @@ Visit `http://localhost:8000/docs` for interactive API documentation (Swagger UI
 - [ ] User authentication and personalized alerts
 - [ ] Real-time WebSocket updates
 - [ ] Mobile app (React Native)
-
-## 📄 License
-
-This project is created for educational purposes.
-
-## 👨‍💻 Author
-
-Built with ❤️ by a Senior AI Engineer with 25 years of experience
 
 ## 🙏 Acknowledgments
 
